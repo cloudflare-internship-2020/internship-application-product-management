@@ -9,7 +9,7 @@ You are the Product Manager for a new initiative: Cloudflare Workers for Gaming.
 Learn what you can about Cloudflare Workers. It might be a good idea to try out the tutorial or engineering challenge. Google, our community site, and Stack Overflow are also useful resources.
 Study the game development industry. Learn more about how video game developers think, what needs they have, and what problems they are trying to solve.
 
-Submit to us a one to two page summary which details a plan to deliver a Cloudflare Workers for Gaming offering to the market. Your summary should contain:
+Submit to us a one to two page summary (in PDF format) which details a plan to deliver a Cloudflare Workers for Gaming offering to the market. Your summary should contain:
 
 - Plans to learn more about the market and its needs
 - Product changes or additions you believe might be valuable
